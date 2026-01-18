@@ -25,5 +25,8 @@ export const cities = [
   { name: 'Rio de Janeiro', zone: 'America/Sao_Paulo', locale: ptBR },
   { name: 'Istanbul', zone: 'Europe/Istanbul', locale: tr },
   { name: 'Dubai', zone: 'Asia/Dubai', locale: ar },
- 
+  { name: 'Rome', zone: 'Europe/Rome', locale: it },
+  { name: 'Madrid', zone: 'Europe/Madrid', locale: es },
+  { name: 'Warsaw', zone: 'Europe/Warsaw', locale: pl },
+  { name: 'Beijing', zone: 'Asia/Shanghai', locale: zhCN }
 ];

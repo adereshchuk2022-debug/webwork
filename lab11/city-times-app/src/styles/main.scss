@@ -1,9 +1,9 @@
 body {
   font-family: 'Segoe UI', sans-serif;
-  background-color: #a737b3;
+  background-color: #fafafa;
   margin: 0;
   padding: 2rem;
-  color: #fffbfb;
+  color: hsl(0, 0%, 0%);
 }
 
 h1 {
@@ -21,7 +21,7 @@ h1 {
   padding: 0;
 
   li {
-    background: #1ae1ef;
+    background: #e8eced;
     border: 1px solid #ddd;
     border-radius: 8px;
     padding: 1rem;
